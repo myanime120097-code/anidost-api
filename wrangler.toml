@@ -1,0 +1,7 @@
+name = "anidost-api"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+[[kv_namespaces]]
+binding = "KV_BINDING"
+id = "c1f1b3fff89544bdafd880cc8387078b"
